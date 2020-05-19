@@ -2,7 +2,7 @@
   "hosting": [
     {
       "target": "TicTacToe",
-      "public": "dist/",
+      "public": "/",
       "ignore": [
         "firebase.json",
         "**/.*",
